@@ -1,0 +1,45 @@
+Length: 103366 (101K) [audio/mp4]
+Saving to: ‘web.archive.org/web/20180816144958im_/http:/dmaorg.info/found/2018_514_3_8/2018_514_3_8.m4a’
+
+
+
+2024-01-24 22:12:28 (246 KB/s) - ‘web.archive.org/web/20180816144958im_/http:/dmaorg.info/found/2018_514_3_8/2018_514_3_8.m4a’ saved [103366/103366]
+
+--2024-01-24 22:12:28--  https://web.archive.org/web/20180703080559im_/http://dmaorg.info/found/2018_514_3_8/2018_514_3_8.m4a
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 302 FOUND
+Location: https://web.archive.org/web/20180701185131im_/http://dmaorg.info/found/2018_514_3_8/2018_514_3_8.m4a [following]
+--2024-01-24 22:12:28--  https://web.archive.org/web/20180701185131im_/http://dmaorg.info/found/2018_514_3_8/2018_514_3_8.m4a
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103366 (101K) [audio/mp4]
+Saving to: ‘web.archive.org/web/20180703080559im_/http:/dmaorg.info/found/2018_514_3_8/2018_514_3_8.m4a’
+
+
+
+2024-01-24 22:12:29 (492 KB/s) - ‘web.archive.org/web/20180703080559im_/http:/dmaorg.info/found/2018_514_3_8/2018_514_3_8.m4a’ saved [103366/103366]
+
+--2024-01-24 22:12:29--  https://web.archive.org/web/20190702182112im_/http://dmaorg.info/found/2018_514_3_8/2018_514_3_8.m4a
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... Read error (Operation timed out) in headers.
+Retrying.
+
+--2024-01-25 00:13:26--  (try: 2)  https://web.archive.org/web/20190702182112im_/http://dmaorg.info/found/2018_514_3_8/2018_514_3_8.m4a
+Connecting to web.archive.org (web.archive.org)|207.241.237.3|:443... connected.
+HTTP request sent, awaiting response... 302 FOUND
+Location: https://web.archive.org/web/20180816145106im_/http://dmaorg.info/found/2018_514_3_8/2018_514_3_8.m4a [following]
+--2024-01-25 00:13:27--  https://web.archive.org/web/20180816145106im_/http://dmaorg.info/found/2018_514_3_8/2018_514_3_8.m4a
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103366 (101K) [audio/mp4]
+Saving to: ‘web.archive.org/web/20190702182112im_/http:/dmaorg.info/found/2018_514_3_8/2018_514_3_8.m4a’
+
+     0K .......... .......... .......... .......... .......... 49%  239K 0s
+    50K .......... .......... .......... .......... .......... 99%  238K 0s
+   100K                                                       100% 18.9K=0.4s
+
+2024-01-25 00:13:30 (241 KB/s) - ‘web.archive.org/web/20190702182112im_/http:/dmaorg.info/found/2018_514_3_8/2018_514_3_8.m4a’ saved [103366/103366]
+
+FINISHED --2024-01-25 00:13:30--
+Total wall clock time: 2h 1m 20s
+Downloaded: 9 files, 566K in 1.4s (391 KB/s)
