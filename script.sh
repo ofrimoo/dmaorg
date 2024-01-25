@@ -2,28 +2,28 @@
 
 # Prompt to enter URL
 echo 'Please enter Wayback Machine URL: '
-# Creating URL variable
+# Create URL variable
 read url
 
-# Entering directory name, i.e., date of the dmaorg update
+# Enter directory name, i.e., date of the dmaorg update
 echo 'Enter the date of the dmaorg update: '
-# Creating variable
+# Create variable
 read directory_name
 
-# Creating directory with that name
+# Create directory with that name
 mkdir "$directory_name"
 
-# Checking to see if it worked
+# Check to see if it worked
 if [ $? -eq 0 ]; then
   echo "Directory '$directory_name' created successfully."
 
-  # Entering directory
+  # Enter directory
   cd "$directory_name"
 
-  # Downloading the site with wget
+  # Download the site with wget
   wget -r "$url"
 
-  # Checking to see if it worked
+  # Check to see if it worked
   if [ $? -eq 0 ]; then
     echo "Website downloaded successfully."
 
