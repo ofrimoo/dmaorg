@@ -14,8 +14,10 @@ fi
 # find img directory
 if file web.archive.org/web/"$archive_num"im_/http:/dmaorg.info/found/15398642_14/img; then
   echo 'found img directory!'
+  # move it to current directory
   mv web.archive.org/web/"$archive_num"im_/http:/dmaorg.info/found/15398642_14/img .
   echo 'img directory was moved..'
+  # delete unnecessary files 
   echo 'deleting unnecessary files...'
   rm -rf web.archive.org
   echo 'done!'
